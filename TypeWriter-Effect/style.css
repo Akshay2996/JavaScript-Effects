@@ -1,0 +1,62 @@
+:root {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2));
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #491bc7;
+}
+
+.container {
+  display: flex;
+  color: white;
+  height: 100vh;
+  align-items: center;
+  /* justify-content: center; */
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)),
+    url("https://images.pexels.com/photos/3773405/pexels-photo-3773405.jpeg?cs=srgb&dl=laptop-computer-on-white-table-3773405.jpg&fm=jpg");
+  background-size: cover;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.typing {
+  position: relative;
+  color: #6649b8;
+  margin-left: 10px;
+  background: rgba(255, 255, 0, 0.5);
+}
+
+.typing::after {
+  content: "";
+  position: absolute;
+  width: 1px;
+  height: 100%;
+  right: -5px;
+  border-right: 2px solid rgba(255, 255, 0, 0.7);
+  animation: blink 0.8s infinite ease;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

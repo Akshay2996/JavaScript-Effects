@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+}
+
+/* No flexbox  */
+h1 {
+  font-size: 4rem;
+  font-family: sans-serif;
+  text-align: center;
+  line-height: 100vh;
+}
+
+span {
+  opacity: 0.5;
+  color: rgb(141, 126, 126);
+  transition: all 1s ease;
+}
+
+span.fade {
+  color: #51aa97;
+  opacity: 1;
+}
