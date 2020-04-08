@@ -6,7 +6,7 @@ These Effects are created using vallina javascript with the help of HTML5 and CS
 
 ⚡No Frameworks ⚡No Compilers
 
-- 1 Library Used: `Rellax.js` for Parallax Landing Page to give its effect.
+- 1 Library Used: `Rellax.js` for [Parallax Landing Page](Parallax-Landing-Page/index.html) to give its effect.
 
 <hr />
 
