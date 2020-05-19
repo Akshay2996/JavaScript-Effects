@@ -13,9 +13,9 @@ These Effects are created using vallina javascript with the help of HTML5 and CS
 ## Table of Contents
 
 - [Social Media Counter](Animated-Counter/index.html)
-- [Navbar](Animated-Navbar/index.html)
 - [Parallax Landing Page](Parallax-Landing-Page/index.html)
 - [Smooth Scroll](Smooth-Scroll/index.html)
 - [Sound Effect + Visuals](Sound-Effects/index.html)
+- [Toggle Theme](Switch-Theme/index.html)
 - [Text Animation](Text-Animation/index.html)
 - [TypeWriter Effect](TypeWriter-Effect/index.html)
