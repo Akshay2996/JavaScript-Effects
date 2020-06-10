@@ -8,16 +8,17 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-  background: #1e1e24;
+  background: #fff;
 }
 
 body::-webkit-scrollbar-thumb {
-  background: #6649b8;
+  border-radius: 4px;
+  background: #8f8e8e;
 }
 
 .box1 {
   height: 100vh;
-  background-color: skyblue;
+  background-color: #9eb1589d;
   display: flex;
   justify-content: center;
   align-items: center;
