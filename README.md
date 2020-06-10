@@ -6,13 +6,13 @@ These Effects are created using vallina javascript with the help of HTML5 and CS
 
 ⚡No Frameworks ⚡No Compilers
 
-- 1 Library Used: `Rellax.js` for [Parallax Landing Page](Parallax-Landing-Page/index.html) to give its effect.
+- 1 Library Used: [`Rellax.js`](https://dixonandmoe.com/rellax/) for [Parallax Landing Page](Parallax-Landing-Page/index.html) to give its effect.
 
 <hr />
 
 ## Table of Contents
 
-| Index | Name                           | Source Code                    | Live     |
+| Index | Name                           | Source Code                    | See Live     |
 |-------|--------------------------------|--------------------------------|----------|
 | 1     | [Social Media Counter](https://akshay2996.github.io/JavaScript-Effects/Animated-Counter/index.html) | [Code](Animated-Counter/)      | [Live](https://akshay2996.github.io/JavaScript-Effects/Animated-Counter/index.html) |
 | 2     | [Parallax Landing Page](https://akshay2996.github.io/JavaScript-Effects/Parallax-Landing-Page/index.html)      | [Code](Parallax-Landing-Page/) | [Live](https://akshay2996.github.io/JavaScript-Effects/Parallax-Landing-Page/index.html) |
