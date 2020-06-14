@@ -6,7 +6,11 @@ These Effects are created using vallina javascript with the help of HTML5 and CS
 
 ⚡No Frameworks ⚡No Compilers
 
-- 1 Library Used: [`Rellax.js`](https://dixonandmoe.com/rellax/) for [Parallax Landing Page](Parallax-Landing-Page/index.html) to give its effect.
+### **Libraries**
+
+[`Rellax.js`](https://dixonandmoe.com/rellax/) in [Parallax Landing Page](https://akshay2996.github.io/JavaScript-Effects/Parallax-Landing-Page/index.html)
+
+[`P5.js`](https://p5js.org/) in [Particles Effect](https://akshay2996.github.io/JavaScript-Effects/Particles-Effect/)
 
 <hr />
 
@@ -21,3 +25,4 @@ These Effects are created using vallina javascript with the help of HTML5 and CS
 | 5     | [Toggle Theme](https://akshay2996.github.io/JavaScript-Effects/Switch-Theme/index.html)               | [Code](Switch-Theme/)          | [Live](https://akshay2996.github.io/JavaScript-Effects/Switch-Theme/index.html) |
 | 6     | [Text Animation](https://akshay2996.github.io/JavaScript-Effects/Text-Animation/index.html)             | [Code](Text-Animation/)        | [Live](https://akshay2996.github.io/JavaScript-Effects/Text-Animation/index.html) |
 | 7     | [TypeWriter Effect](https://akshay2996.github.io/JavaScript-Effects/TypeWriter-Effect/index.html)          | [Code](TypeWriter-Effect/)     | [Live](https://akshay2996.github.io/JavaScript-Effects/TypeWriter-Effect/index.html) |
+| 8     | [Particles Effect](https://akshay2996.github.io/JavaScript-Effects/Particles-Effect/)          | [Code](Particles-Effect/)     | [Live](https://akshay2996.github.io/JavaScript-Effects/Particles-Effect/) |
