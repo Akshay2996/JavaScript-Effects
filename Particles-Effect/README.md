@@ -6,8 +6,6 @@ Made using HTML5, CSS3 and Vanilla Javascript with the help of `P5.js` library.
 
 <hr/>
 
-<h1> `GIF`</h1>
-
 <h2 align="center">
 
 <img src="Assets/ParticleGIF.gif" alt="GIF">
