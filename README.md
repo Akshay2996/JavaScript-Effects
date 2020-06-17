@@ -2,7 +2,7 @@
 
 This is all about the power of plain old Vanilla JavaScript and what we can do with it.
 
-These Effects are created using vallina javascript with the help of HTML5 and CSS3.
+These Effects are created using vanilla JavaScript with the help of HTML5 and CSS3.
 
 ⚡No Frameworks ⚡No Compilers
 
